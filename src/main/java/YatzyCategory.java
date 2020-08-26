@@ -1,4 +1,4 @@
 public enum YatzyCategory {
-    TWOS, ONES
+    TWOS, PAIR, THREE_OF_A_KIND, ONES
 
 }
