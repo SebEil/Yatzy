@@ -3,10 +3,10 @@ public class YatzyGame {
         int result = 0;
         for (int die : dice) {
             if (die == 1 && category == YatzyCategory.ONES){
-                result += 1;
+                result += die;
             }
             else if (die == 2 && category == YatzyCategory.TWOS){
-                result += 2;
+                result += die;
             }
 
 
